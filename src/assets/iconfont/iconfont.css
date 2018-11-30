@@ -1,0 +1,19 @@
+
+@font-face {font-family: "icon";
+  src: url('iconfont.eot?t=1543223322611'); /* IE9*/
+  src: url('iconfont.eot?t=1543223322611#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff;charset=utf-8;base64,d09GRgABAAAAAAQMAAsAAAAABiQAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAABHU1VCAAABCAAAADMAAABCsP6z7U9TLzIAAAE8AAAAQgAAAFY8tkgyY21hcAAAAYAAAABLAAABcOdotmpnbHlmAAABzAAAAFwAAABczGuVYWhlYWQAAAIoAAAALwAAADYTYvYxaGhlYQAAAlgAAAAcAAAAJAfeA4NobXR4AAACdAAAAAgAAAAICAAAAGxvY2EAAAJ8AAAABgAAAAYALgAAbWF4cAAAAoQAAAAeAAAAIAEOACVuYW1lAAACpAAAAUIAAAI9Divfm3Bvc3QAAAPoAAAAIQAAADLh6dPZeJxjYGRgYOBikGPQYWB0cfMJYeBgYGGAAJAMY05meiJQDMoDyrGAaQ4gZoOIAgCKIwNPAHicY2BkYWCcwMDKwMHUyXSGgYGhH0IzvmYwYuRgYGBiYGVmwAoC0lxTGByeASFzw/8GhhjmBoYGoDAjSA4A5yUMYwAAeJxjYGBgZWBgYAZiHSBmYWBgDGFgZAABP6AoI1icmYELLM7CoARWwwISf+bw/z+MBPJZwCQDIxvDKOABkzJQHjisIJiBEQDFagppAAACAAD/ywMiAzUACgAYAAABJiAHBhAfATc2EAUuAScxPgE3HgEXMQ4BArts/upsZmb392b+oy4+AQE+Li4+AQE+AstqanD+33D//3ABIfEBPi4vPQICPS8uPgAAeJxjYGRgYADiTzzuNfH8Nl8ZuFkYQOCG4k0pBP3/NAsDsymQy8HABBIFABCKCVoAeJxjYGRgYG7438AQw8IAAkCSkQEVMAEARwgCawQAAAAEAAAAAAAAAAAuAAB4nGNgZGBgYGKQBGIGMIuBgQsIGRj+g/kMAAsfATQAAHicXZDLTsJAFIb/QkEtiQuNJu5mYYzRpFxcGNmSwJ4FeyhTLmk7zXQg4Wlc+gQuXfoUJm58Ef+WAws6Oaff+c9tMgCu8AsP+++GtmcPPqM913CGO+E6dSXs89wLN9DCo3CT+otwgGe8CrdwjRkneP4FoydshD2c4124hkt8CNepfwr75C/hBm7xLdyk/iMcYII/4RYevLdgYPXU6bma7dQqMllsMheUMNaLTTK1JZY20bZYmUx1w04ZjnSm7aGv2C56zsUqtiZVQw7QSWJUbs1aRy5cOpf32+1Y9DAyKa8xgIXGFI5+zueaYUe/QgSDDHHlHesOyph1Cz5Hwh57VA//CbMWBeMyUugiROeYHTGbVRWn+wpsObVH1XGnoll2pKSh3EBzY0JWyKvcmkpEPcSy6srRR5snPqkPq93pPz84YXYAAHicY2BigAAuBuyAiZGJkZmBIyc/ObEkMz+PgQEAGLQDdwAAAA==') format('woff'),
+  url('iconfont.ttf?t=1543223322611') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('iconfont.svg?t=1543223322611#icon') format('svg'); /* iOS 4.1- */
+}
+
+.icon {
+  font-family:"icon" !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-location:before { content: "\e640"; }
+
