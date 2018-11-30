@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 const url = 'mongodb://127.0.0.1:27017/admin';
-con glob = require ('glob');
-const {resolve} = require('pstath');
+const glob = require ('glob');
+const {resolve} = require('path');
 
 
 exports.initSchemas=()=>{
